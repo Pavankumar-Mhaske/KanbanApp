@@ -44,6 +44,42 @@ Bonus:
 
 ### Screenshot
 
+<p align="center">
+  <b> 🌴🎄🌳🌲 ⭐💖 - EventsPage - 💖⭐ 🌲🌳🎄🌴 </b>
+</p>
+
+![Screenshot (823)](https://github.com/Pavankumar-Mhaske/KanbanApp/assets/104865937/fd42f8f4-766e-4213-a5a0-2666f198ada7)
+
+<p align="center">
+  <b> 🌴🎄🌳🌲 ⭐💖 - EventsPage - 💖⭐ 🌲🌳🎄🌴 </b>
+</p>
+
+
+![Screenshot (824)](https://github.com/Pavankumar-Mhaske/KanbanApp/assets/104865937/ac047795-83f8-4c33-b30d-22b2e2f3ffe4)
+
+<p align="center">
+  <b> 🌴🎄🌳🌲 ⭐💖 - EventsPage - 💖⭐ 🌲🌳🎄🌴 </b>
+</p>
+
+
+![Screenshot (825)](https://github.com/Pavankumar-Mhaske/KanbanApp/assets/104865937/4538b9bb-3309-49f2-b567-c3012647d46f)
+
+<p align="center">
+  <b> 🌴🎄🌳🌲 ⭐💖 - EventsPage - 💖⭐ 🌲🌳🎄🌴 </b>
+</p>
+
+
+![Screenshot (826)](https://github.com/Pavankumar-Mhaske/KanbanApp/assets/104865937/46e79dff-81d5-4bd4-b40f-0799c984c367)
+
+<p align="center">
+  <b> 🌴🎄🌳🌲 ⭐💖 - EventsPage - 💖⭐ 🌲🌳🎄🌴 </b>
+</p>
+
+
+![Screenshot (827)](https://github.com/Pavankumar-Mhaske/KanbanApp/assets/104865937/cce85876-5293-4ea3-863e-bf88888701d8)
+
+
+
 ### Links
 
 - Live Site URL: [link](https://kanban-task-management-react-tailwind.vercel.app/)
