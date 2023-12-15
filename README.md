@@ -1,9 +1,5 @@
 # Frontend Mentor - Kanban task management web app solution
 
-- [this project YouTube video Tutorial](https://www.youtube.com/watch?v=3RWMktZNsJQ&t=1707s)
-
-This is a solution to the [Kanban task management web app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -48,8 +44,6 @@ Bonus:
 
 ### Screenshot
 
-![Screenshot](<./public/screenshots/Screen%20Shot%202023-03-29%20at%201.40.56%20PM%20(2).png>)
-
 ### Links
 
 - Live Site URL: [link](https://kanban-task-management-react-tailwind.vercel.app/)
@@ -61,10 +55,42 @@ Bonus:
 - [React](https://reactjs.org/) - JS library
 - [Redux](https://redux.js.org/) - State management tool
 
-### Useful resources
-
-- [Drag and Drop quick tutorial](https://www.youtube.com/watch?v=u65Y-vqYNAk)
-
 ## Author
 
-- LinkedIn - [Hesam DearBoy](https://www.linkedin.com/in/hesam-azizpour-23259b265/)
+# Hi, I'm Pavankumar Mhaske! 👋🏻
+
+## 🚀 About Me
+
+"I am a tech-savvy software engineer entering the industry with a strong foundation in technology and a specialization in full-stack development..."
+
+## 🔗 Links
+
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pavankumar-Mhaske/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=#f026e9)](https://www.instagram.com/p1mhaske1.618/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PavankumarMhas1/)
+
+## Other Common Github Profile Sections
+
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+## 🛠 Skills
+
+MERN, Node.js, Express, MongoDB, Mongoose,React.js, Javascript, HTML, TailwindCSS, CSS, Context API, Third Party APIs, Angular, VueJS, Vue Cli, Next.js ...
