@@ -78,7 +78,6 @@ Bonus:
 
 - Live Site URL: [link](https://kanban-app-ten-umber.vercel.app/)
 
-
 ## Author
 
 # Hi, I'm Pavankumar Mhaske! 👋🏻
